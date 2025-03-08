@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class tesoro{
+public class prog01{
     public static void main(String [] args){
         int n;
         Scanner miescanner = new Scanner(System.in);
